@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'luchadorable/cli'
+Luchadorable::CLI.start
