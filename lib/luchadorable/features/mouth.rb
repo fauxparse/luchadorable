@@ -9,7 +9,7 @@ module Luchadorable
         %Q{<path d="M24.05 47.89 a18 18 0 0 1 15.89 0 a2 2 0 0 0 1.79 -3.58 a22 22 0 0 0 -19.47 0 a2 2 0 0 0 1.79 3.58" fill="#{BLACK}" />},
         %Q{<path d="M22 48 a2 2 0 0 1 4 0 a2 2 0 0 0 4 0 a2 2 0 0 1 4 0 a2 2 0 0 0 4 0 a2 2 0 0 1 4 0 a6 6 0 0 1 -12 0 h4 a6 6 0 0 1 -12 0" fill="#{BLACK}" fill-rule="nonzero" />},
         %Q{<g fill="#{BLACK}"><path d="M9.02 48 h45.96 a28 28 0 0 1 -3.38 4 h-39.2 a28 28 0 0 1 -3.38 -4" /><rect x="23" y="45" width="4" height="10" rx="2" ry="2" /><rect x="30" y="44" width="4" height="12" rx="2" ry="2" /><rect x="37" y="45" width="4" height="10" rx="2" ry="2" /></g>},
-        %Q{<rect x="22" y="46" width="20" height="4" rx="2" ry="2" fill="#{BLACK}" /><path d="M24 48 h4 v3 a2 2 0 0 1 -4 0 v-3 m12 0 h4 v3 a2 2 0 0 1 -4 0 v-3" fill="#{WHITE}">}
+        %Q{<rect x="22" y="46" width="20" height="4" rx="2" ry="2" fill="#{BLACK}" /><path d="M24 48 h4 v3 a2 2 0 0 1 -4 0 v-3 m12 0 h4 v3 a2 2 0 0 1 -4 0 v-3" fill="#{WHITE}" />}
       ]
 
       def initialize(value)
